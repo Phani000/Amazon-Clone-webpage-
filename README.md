@@ -11,5 +11,6 @@ The project is still in progress and JavaScript will be added later.
 
 If you are opening the site in mobile phone, Please open in Desktop Mode
 
-[Preview Image](../Amazon.com.html)
+<h2> Contributing </h2>
 
+Contributions are welcome! Please feel free to submit a pull request.
