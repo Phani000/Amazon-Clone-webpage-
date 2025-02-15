@@ -13,7 +13,7 @@ If you are opening the site in mobile phone, Please open in Desktop Mode
 
 <h2> Preview Image: </h2>
 
-[Preview Image](url(http://127.0.0.1:5500/))
+[Preview Image](url=(0022)http://127.0.0.1:5500/)
 
 <h2> Contributing </h2>
 
