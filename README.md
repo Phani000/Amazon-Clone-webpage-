@@ -13,7 +13,7 @@ If you are opening the site in mobile phone, Please open in Desktop Mode
 
 <h2> Preview Image: </h2>
 
-[Preview Image](Screenshot_15-2-2025_23537_127.0.0.1.jpeg)
+[](Screenshot_15-2-2025_23537_127.0.0.1.jpeg)
 
 <h2> Contributing </h2>
 
